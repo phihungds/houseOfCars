@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cdeb33e.css",
+    "main.js": "/static/js/main.5e077ad8.js",
+    "static/js/787.231a8822.chunk.js": "/static/js/787.231a8822.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.cbde74464d828d6f028f.jpg",
+    "static/media/login-background.jpg": "/static/media/login-background.e4dad22bf5f4f4184e3c.jpg",
+    "static/media/import-car-bg.jpg": "/static/media/import-car-bg.5ee47d96119b88fcf50a.jpg",
+    "static/media/car-details-bg.jpg": "/static/media/car-details-bg.48abf000649c6da6f6ef.jpg",
+    "static/media/Phantom-overview.jpg": "/static/media/Phantom-overview.f34be8044044cfeb4ac1.jpg",
+    "static/media/repairbg.jpg": "/static/media/repairbg.2bf3288d46567a728412.jpg",
+    "static/media/4-detail.jpg": "/static/media/4-detail.7b6ae124787dda553c10.jpg",
+    "static/media/1-detail.jpg": "/static/media/1-detail.f32f0c2eb06bfed56292.jpg",
+    "static/media/Land Cruiser-overview.jpg": "/static/media/Land Cruiser-overview.3c744fb21b13fb577b9d.jpg",
+    "static/media/5-detail.jpg": "/static/media/5-detail.8cf6a6298569b3c1b3ae.jpg",
+    "static/media/AMG Vision-overview.jpg": "/static/media/AMG Vision-overview.886c8814cf2190ce86f3.jpg",
+    "static/media/T-90-overview.jpg": "/static/media/T-90-overview.e5e667f8415a36c8ae50.jpg",
+    "static/media/8-detail.jpg": "/static/media/8-detail.dd721cc4516c7f0206c3.jpg",
+    "static/media/2-detail.jpg": "/static/media/2-detail.4f51c400ac8779262499.jpg",
+    "static/media/6-detail.jpg": "/static/media/6-detail.9c2f5056f79f1ad8cbd5.jpg",
+    "static/media/editbg.jpg": "/static/media/editbg.e51ab00e2e7f4d3eb409.jpg",
+    "static/media/7-detail.jpg": "/static/media/7-detail.72b8c8621876ce0f016d.jpg",
+    "static/media/VF7-overview.jpg": "/static/media/VF7-overview.3783810ebe537a5199e4.jpg",
+    "static/media/Morning-overview.jpg": "/static/media/Morning-overview.bf5a183354b0b4b71fb0.jpg",
+    "static/media/Model X-overview.jpg": "/static/media/Model X-overview.fe3a88175ec17994a405.jpg",
+    "static/media/Santafe-overview.jpg": "/static/media/Santafe-overview.b1b6bbe6acfc1bfc8b1a.jpg",
+    "static/media/DancingScript-Bold.ttf": "/static/media/DancingScript-Bold.8bcc6e426addb9a5c847.ttf",
+    "static/media/3-detail.jpg": "/static/media/3-detail.cfa6023ebf42b44ab86d.jpg",
+    "static/media/C300-overview.jpg": "/static/media/C300-overview.88d695fdb8de5314d3f1.jpg",
+    "static/media/Cayenne-overview.jpg": "/static/media/Cayenne-overview.eec5b3871143fedfed36.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1cdeb33e.css.map": "/static/css/main.1cdeb33e.css.map",
+    "main.5e077ad8.js.map": "/static/js/main.5e077ad8.js.map",
+    "787.231a8822.chunk.js.map": "/static/js/787.231a8822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdeb33e.css",
+    "static/js/main.5e077ad8.js"
+  ]
+}
